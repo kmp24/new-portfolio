@@ -1,6 +1,5 @@
 ---
 classes: wide
-header:
 permalink: /portfolio/index.md
 
 feature_row:
