@@ -14,11 +14,11 @@ feature_row:
     url: "https://github.com/kmp24/PostFireImagery/blob/master/Download_L8Imagery_Post_Fire.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"	
-  - image_path: /assets/images/miles.jpg
+  - image_path: /assets/images/defmatch.PNG
     alt: "Fuzzy address matching"
     title: "Fuzzy address matching"
     excerpt: "Efficiently match a list of messy addresses to millions of address records"
-    url: "/portfolio/genre_cls/"
+    url: "/assets/docs/FuzzyMatch.md"
     btn_label: "Read More"
     btn_class: "btn--primary"	
   - image_path: /assets/images/visualize.PNG
