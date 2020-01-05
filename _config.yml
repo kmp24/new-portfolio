@@ -1,10 +1,9 @@
 # Configs for pwills.com
 
-title: "pwills.com"
-name: "pwills.com"
-email: peter@pwills.com
-url: "http://www.pwills.com"
-repository: "peterewills/peterewills.github.io"
+title: "K Perham"
+name: "K Perham"
+url: "kmp24.github.io"
+repository: "kmp24/kmp24.github.io"
 
 include:
   - _pages
@@ -29,25 +28,17 @@ minimal_mistakes_skin: "dirt"
   
 # settings for author profile
 author:
-  name   : "Peter Wills"
-  avatar : "/assets/images/headshot.jpg"
-  bio    : "I enjoy writing about things I'm interested in - mostly computing, math, physics, and software engineering."
-  location: "San Francisco, CA"
-  github : peterewills
-  linkedin: peterewills
-  email  : peter@pwills.com
+  name   : "Kaitlyn Perham"
+  avatar : "/assets/images/wmnf.jpg"
+  location: "New Hampshire"
+  github : kmp24
+  linkedin: kaitlyn-perham
 
-
-# # comments by disqus
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "pwills-com"
 
 analytics:
   provider: "google"
   google:
-    tracking_id: "UA-116208936-1"
+    tracking_id: "UA-105425818-1"
 
 
 # pagination for blog page
