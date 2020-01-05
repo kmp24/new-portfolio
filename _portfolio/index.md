@@ -7,7 +7,7 @@ permalink: /portfolio/index.html
 
 
 feature_row:
-  - image_path: /assets/images/l8scene.png
+  - image_path: /assets/images/l8scene.PNG
     alt: "L8 scene"
     title: "L8 Scene selection- filter by post-fire imagery"
     excerpt: "A tool to download L8 imagery by state, only selecting post-fire imagery"
@@ -37,14 +37,14 @@ feature_row:
     url: "assets/images/palaeoshoreline-2112x1632.jpg"
     btn_label: "Read More"
     btn_class: "btn--primary"	
-  - image_path: /assets/images/miles.jpg
+  - image_path: /assets/docs/archaeological potential.jpg
     alt: "Potential Archaeological Sites"
     title: "Potential Archaeological Sites"
     excerpt: "Areas with higher potential for cultural remains"
     url: "/assets/docs/archaeologicalpotential.pdf"
     btn_label: "Read More"
     btn_class: "btn--primary"	
-  - image_path: /assets/docs/archaeological potential.jpg
+
 
 ---
 
