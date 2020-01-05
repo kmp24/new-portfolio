@@ -28,25 +28,7 @@ feature_row:
     url: "https://www.verisk.com/insurance/visualize/author/kaitlyn-perham/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    
- archaeology:
-  - image_path: assets/images/palaeoshoreline-2112x1632.jpg
-    alt: "Palaeoshore"
-    title: "Maine's Palaeoshoreline"
-    excerpt: "A look at Maine's Palaeoshoreline imposed on modern day boundaries"
-    url: "assets/images/palaeoshoreline-2112x1632.jpg"
-    btn_label: "Read More"
-    btn_class: "btn--primary"	
-  - image_path: /assets/docs/archaeological potential.jpg
-    alt: "Potential Archaeological Sites"
-    title: "Potential Archaeological Sites"
-    excerpt: "Areas with higher potential for cultural remains"
-    url: "/assets/docs/archaeologicalpotential.pdf"
-    btn_label: "Read More"
-    btn_class: "btn--primary"	
-
-
----
+ ---
 
 # Portfolio
 
@@ -57,11 +39,8 @@ Here you'll find some of the code I've written that I'm able to share.
 
 {% include feature_row %}
 
-<div style="margin-bottom:1cm" align="center"><font size="55">Archaeology</font></div>
-
-{% include archaeology %}
 
 <!------------------------------- FOOTER --------------------------------->
 
-#[1]: /assets/docs/resume.pdf
+
 
