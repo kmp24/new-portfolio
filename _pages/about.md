@@ -1,7 +1,7 @@
 ---
 title: " "
 header:
-  overlay_image: /assets/images/wmnf arch.jpg
+  overlay_image: "/assets/images/wmnf arch.jpg"
 permalink: /about/
 ---
 
