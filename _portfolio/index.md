@@ -7,7 +7,7 @@ permalink: /portfolio/index.html
 
 
 feature_row:
-  - image_path: assets/images/l8scene.png
+  - image_path: /assets/images/l8scene.png
     alt: "L8 scene"
     title: "L8 Scene selection- filter by post-fire imagery"
     excerpt: "A tool to download L8 imagery by state, only selecting post-fire imagery"
