@@ -1,80 +1,63 @@
-# Configs
-title: "K Perham"
-name: "K Perham"
-url: "kmp24.github.io"
-repository: "https://kmp24.github.io/new-portfolio"
-
+title: 'K Perham'
+name: 'K Perham'
+url: kmp24.github.io
+repository: 'https://kmp24.github.io/new-portfolio'
 include:
-  - _pages
-  - assets
-  - index.html
+    - _pages
+    - assets
+    - index.html
 exclude:
-  - TODO.md
-  - README.md
-  - "*.org"
-  - "*ltximg*"
-
+    - TODO.md
+    - README.md
+    - '*.org'
+    - '*ltximg*'
 plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-  - jekyll-include-cache
-
-# Build settings
+    - jekyll-feed
+    - jekyll-remote-theme
+    - jekyll-include-cache
 markdown: kramdown
-theme: "minimal-mistakes-jekyll"
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dirt"
-  
-# settings for author profile
+theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: dirt
 author:
-  name   : "Kaitlyn Perham"
-  avatar : "/assets/images/wmnf.jpg"
-  location: "New Hampshire"
-  github : kmp24
-  linkedin: kaitlyn-perham
-
-
+    name: 'Kaitlyn Perham'
+    avatar: /assets/images/wmnf.jpg
+    location: 'New Hampshire'
+    github: kmp24
+    linkedin: kaitlyn-perham
 analytics:
-  provider: "google"
-  google:
-    tracking_id: "UA-105425818-1"
-
-
-# pagination for blog page
-paginate: 10 # number of posts to show
-paginate_path: /page:num/
-
-# default YAML front matter
+    provider: google
+    google:
+        tracking_id: UA-105425818-1
+paginate: 10
+paginate_path: '/page:num/'
 defaults:
-  # all
-  - scope:
-      path: ""
-    values:
-      layout: single
-      mathjax: true
-      author_profile: true
-      class: wide
-      title: " "
-      title_separator: "|"
-  # posts
-  - scope:
-      type: posts
-    values:
-      toc: true
-      toc_label: "Contents"
-      read_time: false
-      comments: true
-  # portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      author_profile: false
-      excerpt: ""
-      sidebar:
-        nav: "portfolio"
-
-# collections
+    -
+        scope:
+            path: ""
+        values:
+            layout: single
+            mathjax: true
+            author_profile: true
+            class: wide
+            title: ' '
+            title_separator: '|'
+    -
+        scope:
+            type: posts
+        values:
+            toc: true
+            toc_label: Contents
+            read_time: false
+            comments: true
+    -
+        scope:
+            path: ""
+            type: portfolio
+        values:
+            author_profile: false
+            excerpt: ""
+            sidebar: {nav: portfolio}
 collections:
-  portfolio:
-    output: true
+    portfolio:
+        output: true
