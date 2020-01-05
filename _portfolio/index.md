@@ -1,37 +1,46 @@
 ---
 classes: wide
 header:
-  overlay_image: /assets/images/mt glass.jpg
-  caption: "Mount Glass - Northern California"
-permalink: /portfolio/index.md
+  overlay_image: /assets/images/tools.jpg
+  caption: "Photo credit: [**Ricky Kharawala**](https://unsplash.com)"
+permalink: /portfolio/index.html
+date: 2018-01-07
 
 feature_row:
-- image_path: /assets/images/l8scene.PNG
-    alt: "L8 scene"
-    title: "L8 Scene selection- filter by post-fire imagery"
-    excerpt: "A tool to download L8 imagery by state, only selecting post-fire imagery"
-    url: "https://github.com/kmp24/PostFireImagery/blob/master/Download_L8Imagery_Post_Fire.ipynb"
+  - image_path: assets/images/ai_head.jpg
+    alt: "DeskAI"
+    title: "DeskAI: Smarter Online User Targeting"
+    excerpt: "Automated optimization of online advertising campaigns."
+    url: "/portfolio/deskai/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
-  - image_path: /assets/images/defmatch.PNG
-    alt: "Fuzzy address matching"
-    title: "Fuzzy address matching"
-    excerpt: "Efficiently match a list of messy addresses to millions of address records"
-    url: "/assets/docs/FuzzyMatch.md"
+  - image_path: /assets/images/miles.jpg
+    alt: "Music"
+    title: "Algorithmic Musical Genre Classification"
+    excerpt: "Detection of musical genre directly from the audio file."
+    url: "/portfolio/genre_cls/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
-  - image_path: /assets/images/visualize.PNG
-    alt: "Blog"
-    title: "Blog"
-    excerpt: "Some blog articles I've helped compile"
-    url: "https://www.verisk.com/insurance/visualize/author/kaitlyn-perham/"
+  - image_path: /assets/images/social_network.jpg
+    alt: "Social Network"
+    title: "Anomaly Detection in Social Networks"
+    excerpt: "Anomaly detection in social network data, using the graph resistance."
+    url: "/portfolio/social-networks/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
 
 # Portfolio
 
-Here you'll find some of the code I've written that I'm able to share.
+Here you'll find summaries of the major projects I've done over the years, which
+are representative of my skills and interests. These projects span everything
+from mathematical physics to machine learning, from finance to advertising, from
+the theoretical to the practical.
+
+The discussion here is generally non-technical; for the research projects,
+related publications can be found in [my resume][1]. There are also links to
+documents at the top of each page, which offer more depth. If you're curious
+about technical details I've glossed over, feel free to [contact me][2].
 
 
 <div style="margin-bottom:1cm" align="center"><font size="55">Selected Projects</font></div>
@@ -39,3 +48,7 @@ Here you'll find some of the code I've written that I'm able to share.
 {% include feature_row %}
 
 <!------------------------------- FOOTER --------------------------------->
+
+[1]: /assets/docs/resume.pdf
+
+[2]: mailto:peter@pwills.com
