@@ -15,27 +15,17 @@ main:
 portfolio:
   - title: "Projects"
     children:
-#      - title: "Machine Learning on AWS"
-#        url: /portfolio/coming/
-      - title: "Anomaly Detection in Social Networks"
-        url: /portfolio/social-networks/
-      - title: "NetComp: Python Network Comparison"
-        url: /portfolio/netcomp/
-      - title: "Automatic Genre Classification"
-        url: /portfolio/genre_cls/
+      - title: "Select and download Post-fire L8 imagery"
+        url: https://github.com/kmp24/PostFireImagery/blob/master/Download_L8Imagery_Post_Fire.ipynb
+      - title: "Fuzzy address matching - Python"
+        url: https://github.com/kmp24/fuzzyaddress/blob/master/FuzzyMatch.md
+#      - title: "Automatic Genre Classification"
+#        url: /portfolio/genre_cls/
 
-  - title: "Professional"
+  - title: "Archaeology"
     children:
-      - title: "DeskAI"
-        url: /portfolio/deskai
-      - title: "Smart Climate Index"
-        url: /portfolio/sclm
+      - title: "Maine's Palaeoshoreline"
+        url: /assets/docs/PalaeoShoreline.pdf
+      - title: "Potential Archaeological Sites in Maine"
+        url: /assets/docs/archpotential.pdf
 
-  - title: "Research"
-    children:
-      - title: "Dynamic Anomaly Detection"
-        url: /portfolio/networks/
-      - title: "Statistics of Entanglement"
-        url: /portfolio/qm_stats/
-      - title: "Magnetic Waves and Noise"
-        url: /portfolio/waves/
