@@ -7,7 +7,7 @@ permalink: /portfolio/index.html
 
 
 feature_row:
-  - image_path: assets/images/l8scene.jpg
+  - image_path: assets/images/l8scene.png
     alt: "L8 scene"
     title: "L8 Scene selection- filter by post-fire imagery"
     excerpt: "A tool to download L8 imagery by state, only selecting post-fire imagery"
@@ -28,6 +28,24 @@ feature_row:
     url: "https://www.verisk.com/insurance/visualize/author/kaitlyn-perham/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    
+ archaeology:
+  - image_path: assets/images/palaeoshoreline-2112x1632.jpg
+    alt: "Palaeoshore"
+    title: "Maine's Palaeoshoreline"
+    excerpt: "A look at Maine's Palaeoshoreline imposed on modern day boundaries"
+    url: "assets/images/palaeoshoreline-2112x1632.jpg"
+    btn_label: "Read More"
+    btn_class: "btn--primary"	
+  - image_path: /assets/images/miles.jpg
+    alt: "Potential Archaeological Sites"
+    title: "Potential Archaeological Sites"
+    excerpt: "Areas with higher potential for cultural remains"
+    url: "/assets/docs/archaeologicalpotential.pdf"
+    btn_label: "Read More"
+    btn_class: "btn--primary"	
+  - image_path: /assets/docs/archaeological potential.jpg
+
 ---
 
 # Portfolio
@@ -38,6 +56,10 @@ Here you'll find some of the code I've written that I'm able to share.
 <div style="margin-bottom:1cm" align="center"><font size="55">Selected Projects</font></div>
 
 {% include feature_row %}
+
+<div style="margin-bottom:1cm" align="center"><font size="55">Archaeology</font></div>
+
+{% include archaeology %}
 
 <!------------------------------- FOOTER --------------------------------->
 
