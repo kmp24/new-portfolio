@@ -1,5 +1,8 @@
 ---
 classes: wide
+header:
+  overlay_image: /assets/images/mt glass.jpg
+  caption: "Mount Glass - Northern California"
 permalink: /portfolio/index.md
 
 feature_row:
