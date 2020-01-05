@@ -1,9 +1,8 @@
-# Configs for pwills.com
-
+# Configs
 title: "K Perham"
 name: "K Perham"
 url: "kmp24.github.io"
-repository: "kmp24/kmp24.github.io"
+repository: "https://kmp24.github.io/new-portfolio"
 
 include:
   - _pages
