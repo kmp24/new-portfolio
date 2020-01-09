@@ -18,7 +18,7 @@ feature_row:
     alt: "Fuzzy Address Matching"
     title: "Fuzzy Address matching"
     excerpt: "Efficiently match a list of messy addresses to millions of address records"
-    url: "assets/docs/FuzzyMatch.ipynb"
+    url: "https://github.com/kmp24/new-portfolio/blob/master/assets/docs/FuzzyMatch.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"	
   - image_path: /assets/images/social_network.jpg
