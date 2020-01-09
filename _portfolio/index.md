@@ -14,11 +14,11 @@ feature_row:
     url: "https://github.com/kmp24/PostFireImagery/blob/master/Download_L8Imagery_Post_Fire.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"	
-  - image_path: /assets/images/miles.jpg
-    alt: "Music"
-    title: "Algorithmic Musical Genre Classification"
-    excerpt: "Detection of musical genre directly from the audio file."
-    url: "/portfolio/genre_cls/"
+  - image_path: assets/images/defmatch.PNG
+    alt: "Fuzzy Address Matching"
+    title: "Fuzzy Address matching"
+    excerpt: "Efficiently match a list of messy addresses to millions of address records"
+    url: "assets/docs/FuzzyMatch.md"
     btn_label: "Read More"
     btn_class: "btn--primary"	
   - image_path: /assets/images/social_network.jpg
