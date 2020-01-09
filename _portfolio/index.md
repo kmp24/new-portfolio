@@ -7,11 +7,11 @@ permalink: /portfolio/index.html
 date: 2018-01-07
 
 feature_row:
-  - image_path: assets/images/ai_head.jpg
-    alt: "DeskAI"
-    title: "DeskAI: Smarter Online User Targeting"
-    excerpt: "Automated optimization of online advertising campaigns."
-    url: "/portfolio/deskai/"
+  - image_path: assets/images/l8scene.PNG
+    alt: "L8 Scene selection- filter by post-fire imagery"
+    title: "L8 Scene selection- filter by post-fire imagery"
+    excerpt: "A tool to download L8 imagery by state, only selecting post-fire imagery"
+    url: "https://github.com/kmp24/PostFireImagery/blob/master/Download_L8Imagery_Post_Fire.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"	
   - image_path: /assets/images/miles.jpg
