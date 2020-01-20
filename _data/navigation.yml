@@ -22,4 +22,17 @@ portfolio:
         url: /assets/docs/PalaeoShoreline.pdf
       - title: "Potential Archaeological Sites in Maine"
         url: /assets/docs/archpotential.pdf
+        
+  - title: "GeoCorps"
+    children:
+      - title: "WMNF - Miarolitic Cavities"
+        url: /assets/docs/Perham_Kaitlyn_USFS_WMNF_MiaroloticCavityProb.pdf
+      - title: "Locations of Mineral Collecting Abuse"
+        url: /assets/docs/Perham_Kaitlyn_USFS_WMNF_LocationofMostDamage.pdf
+
+ - title: "Rachel Carson NWR - Degree Capstone Project"
+    children:
+      - title: "Visitor Services Plan"
+        url: /assets/docs/RCNWR-VSP-KPERHAM-2013.pdf
+        
 
