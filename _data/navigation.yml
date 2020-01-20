@@ -7,7 +7,7 @@ main:
 
 
 # sidebar for portfolio
-#portfolio:
+portfolio:
   #- title: "Projects"
     #children:
       #- title: "Select and download Post-fire L8 imagery"
@@ -16,10 +16,10 @@ main:
         #url: https://github.com/kmp24/fuzzyaddress/blob/master/FuzzyMatch.md
 
 
-  #- title: "Archaeology"
-    #children:
-      #- title: "Maine's Palaeoshoreline"
-        #url: /assets/docs/PalaeoShoreline.pdf
-      #- title: "Potential Archaeological Sites in Maine"
-        #url: /assets/docs/archpotential.pdf
+  - title: "Archaeology"
+    children:
+      - title: "Maine's Palaeoshoreline"
+        url: /assets/docs/PalaeoShoreline.pdf
+      - title: "Potential Archaeological Sites in Maine"
+        url: /assets/docs/archpotential.pdf
 
