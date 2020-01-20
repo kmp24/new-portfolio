@@ -21,11 +21,11 @@ feature_row:
     url: "https://github.com/kmp24/new-portfolio/blob/master/assets/docs/FuzzyMatch.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"	
-  - image_path: /assets/images/social_network.jpg
-    alt: "Social Network"
-    title: "Anomaly Detection in Social Networks"
-    excerpt: "Anomaly detection in social network data, using the graph resistance."
-    url: "/portfolio/social-networks/"
+  - image_path: assets/images/frac.PNG
+    alt: "Frac Pixel"
+    title: "Partial Pixel Coverage Calculation"
+    excerpt: "Calculate partial pixel coverage of polygons  "
+    url: "https://github.com/kmp24/new-portfolio/blob/master/assets/docs/FractionalPixelArea.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
@@ -41,6 +41,6 @@ Here you'll find some of the code I've written that I'm able to share.
 
 <!------------------------------- FOOTER --------------------------------->
 
-[1]: /assets/docs/resume.pdf
+[1]: 
 
-[2]: mailto:peter@pwills.com
+[2]: mailto:
