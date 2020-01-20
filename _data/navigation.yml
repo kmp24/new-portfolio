@@ -8,14 +8,6 @@ main:
 
 # sidebar for portfolio
 portfolio:
-  #- title: "Projects"
-    #children:
-      #- title: "Select and download Post-fire L8 imagery"
-       # url: https://github.com/kmp24/PostFireImagery/blob/master/Download_L8Imagery_Post_Fire.ipynb
-      #- title: "Fuzzy address matching - Python"
-        #url: https://github.com/kmp24/fuzzyaddress/blob/master/FuzzyMatch.md
-
-
   - title: "Archaeology"
     children:
       - title: "Maine's Palaeoshoreline"
@@ -30,7 +22,7 @@ portfolio:
       - title: "Locations of Mineral Collecting Abuse"
         url: /assets/docs/Perham_Kaitlyn_USFS_WMNF_LocationofMostDamage.pdf
 
- - title: "Rachel Carson NWR - Degree Capstone Project"
+  - title: "Rachel Carson NWR - Degree Capstone Project"
     children:
       - title: "Visitor Services Plan"
         url: /assets/docs/RCNWR-VSP-KPERHAM-2013.pdf
