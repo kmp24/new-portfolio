@@ -1,24 +1,20 @@
 # the masthead
 main:
-  - title: "Home"
-    url: /
   - title: "About"
     url: /about/
   - title: "Portfolio"
     url: /portfolio/
-  # - title: "Blog"
-  #   url: /blog/
+
 
 # sidebar for portfolio
-portfolio:
-  - title: "Projects"
-    children:
-      - title: "Select and download Post-fire L8 imagery"
-        url: https://github.com/kmp24/PostFireImagery/blob/master/Download_L8Imagery_Post_Fire.ipynb
-      - title: "Fuzzy address matching - Python"
-        url: https://github.com/kmp24/fuzzyaddress/blob/master/FuzzyMatch.md
-#      - title: "Automatic Genre Classification"
-#        url: /portfolio/genre_cls/
+#portfolio:
+  #- title: "Projects"
+    #children:
+      #- title: "Select and download Post-fire L8 imagery"
+       # url: https://github.com/kmp24/PostFireImagery/blob/master/Download_L8Imagery_Post_Fire.ipynb
+      #- title: "Fuzzy address matching - Python"
+        #url: https://github.com/kmp24/fuzzyaddress/blob/master/FuzzyMatch.md
+
 
   - title: "Archaeology"
     children:
