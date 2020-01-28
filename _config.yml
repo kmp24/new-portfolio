@@ -26,9 +26,9 @@ author:
     github: kmp24
     linkedin: kaitlyn-perham
 analytics:
-    provider: google
+    provider: "google"
     google:
-        tracking_id: UA-105425818-1
+        tracking_id: "UA-105425818-1"
 paginate: 10
 paginate_path: '/page:num/'
 defaults:
