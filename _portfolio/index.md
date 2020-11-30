@@ -32,7 +32,7 @@ feature_row:
     alt: "L8 Scene selection- filter by post-fire imagery"
     title: "L8 Scene selection- filter by post-fire imagery"
     excerpt: "A tool to download L8 imagery by state, only selecting post-fire imagery"
-    url: "https://nbviewer.jupyter.org/github/kmp24/kmp24.github.io/blob/master/assets/docs/Download_L8Imagery_Post_Fire.ipynb"
+    url: "https://nbviewer.jupyter.org/github/kmp24/kmp24.github.io/blob/master/assets/docs/SelectL8Imagery.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"	
   - image_path: assets/images/defmatch.PNG
