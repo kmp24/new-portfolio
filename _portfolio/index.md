@@ -11,7 +11,7 @@ feature_row:
     alt: "Calculate and reclassify NDVI"
     title: "Calculate and reclassify NDVI"
     excerpt: "Use NAIP to create NDVI and reclassify it"
-    url: "https://nbviewer.jupyter.org/github/kmp24/kmp24.github.io/blob/master/assets/docs/NAIP_NDVI_.ipynb.ipynb"
+    url: "https://nbviewer.jupyter.org/github/kmp24/kmp24.github.io/blob/master/assets/docs/NAIP_NDVI_.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/l8scene.PNG
