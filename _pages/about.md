@@ -9,6 +9,8 @@ permalink: /about/
 
 <img src="https://github.com/kmp24/new-portfolio/blob/master/assets/images/wmnf arch.jpg" width="50%" hspace="20" align="right">
   
-I'm a geospatial data analyst who has worked for a variety of public land management agencies and industry, in primarily geospatial-oriented roles. I'm interested in data science applied to earth data. I have experience primarily using python, working with pandas/geopandas, rasterio, shapely, gdal, ArcPy, and other open source tools including QGIS. Currently I work in the insurance industry, primarily on a wildfire exposure model product.
+I'm a geospatial data analyst who has worked for a variety of public land management agencies and industry. I primarily use python with a variety of open source tools. I work for a data analytics company in the insurance sector on a wildfire exposure model product.
 
-I have a bachelors degree in Geography-Anthropology from the University of Southern Maine, where I focused in archaeology and worked in the school's archaeology laboratory as a student lab assistant.
+Currently, I am a MS student at the University of Maine in the Spatial Informatics program. My advisor is Dr Kate Beard-Tisdale and my area of interest includes earth science, remote sensing, machine learning, and spatial data science. I have a bachelors degree in Geography-Anthropology from the University of Southern Maine. 
+
+When I'm not consumed with all things geospatial, some of my hobbies and interests include mineral collecting, archaeology, playing the harp, and going on adventures with my dog. 
