@@ -8,24 +8,45 @@ date: 2018-01-07
 
 feature_row:
   - image_path: assets/images/l8scene.PNG
+    alt: "Calculate and reclassify NDVI"
+    title: "Calculate and reclassify NDVI"
+    excerpt: "Use NAIP to create NDVI and reclassify it"
+    url: "https://nbviewer.jupyter.org/github/kmp24/kmp24.github.io/blob/master/assets/docs/NAIP_NDVI_.ipynb.ipynb"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/l8scene.PNG
+    alt: "Download NAIP"
+    title: "Download NAIP from USGS's S3 bucket an AOI"
+    excerpt: "An easy method to download NAIP using a file with an AOI"
+    url: "https://nbviewer.jupyter.org/github/kmp24/kmp24.github.io/blob/master/assets/docs/DownloadNAIP.ipynb"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/l8scene.PNG
+    alt: "Summarize categorical data - Fire Perimeter"
+    title: "Summarize categorical data - Fire Perimeters"
+    excerpt: "A script to summarize some categorical rasters within fire perimeters"
+    url: "https://nbviewer.jupyter.org/github/kmp24/kmp24.github.io/blob/master/assets/docs/AnalyzeFirePerimeter.ipynb"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/l8scene.PNG
     alt: "L8 Scene selection- filter by post-fire imagery"
     title: "L8 Scene selection- filter by post-fire imagery"
     excerpt: "A tool to download L8 imagery by state, only selecting post-fire imagery"
-    url: "https://github.com/kmp24/PostFireImagery/blob/master/Download_L8Imagery_Post_Fire.ipynb"
+    url: "https://nbviewer.jupyter.org/github/kmp24/kmp24.github.io/blob/master/assets/docs/Download_L8Imagery_Post_Fire.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"	
   - image_path: assets/images/defmatch.PNG
     alt: "Fuzzy Address Matching"
     title: "Fuzzy Address matching"
     excerpt: "Efficiently match a list of messy addresses to millions of address records"
-    url: "https://github.com/kmp24/new-portfolio/blob/master/assets/docs/FuzzyMatch.ipynb"
+    url: "https://nbviewer.jupyter.org/github/kmp24/kmp24.github.io/blob/master/assets/docs/FuzzyMatch.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"	
   - image_path: assets/images/frac.PNG
     alt: "Frac Pixel"
     title: "Partial Pixel Coverage Calculation"
     excerpt: "Calculate partial pixel coverage of polygons  "
-    url: "https://github.com/kmp24/new-portfolio/blob/master/assets/docs/FractionalPixelArea.ipynb"
+    url: "https://nbviewer.jupyter.org/github/kmp24/kmp24.github.io/blob/master/assets/docs/FractionalPixelArea.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
