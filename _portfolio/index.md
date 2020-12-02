@@ -59,9 +59,10 @@ Here you'll find some of the code I've written that I'm able to share.
 <div style="margin-bottom:1cm" align="center"><font size="55">Selected Projects</font></div>
 
 {% include feature_row %}
+[![Analytics](https://ga-beacon.appspot.com/UA-105425818-1/_Portfolio)](https://github.com/kmp24/kmp24.github.io)
 
 <!------------------------------- FOOTER --------------------------------->
 
-[1]: 
+[1]:
 
 [2]: mailto:
