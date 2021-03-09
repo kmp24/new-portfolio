@@ -5,7 +5,7 @@ gem "jekyll-remote-theme"
 gem "minimal-mistakes-jekyll"
 gem "jekyll-include-cache"
 gem "jekyll-paginate"
-gem "nokogiri", "~> 1.10.8"
+gem "nokogiri", "~> 1.11.0"
 
 # github-pages plugins
 gem "github-pages", group: :jekyll_plugins
