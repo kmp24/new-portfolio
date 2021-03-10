@@ -3,7 +3,7 @@ title: "Photos"
 header:
   overlay_image: /assets/images/mt glass.jpg
 permalink: /photos/
----
+
 gallery:
   - url: /assets/images/archae.jpg
     image_path: /assets/images/archae.jpg
@@ -25,5 +25,6 @@ gallery:
     image_path: /assets/images/wmnf.jpg
     alt: "placeholder image 4"
     title: "Trying to get more than 3 satellites while working at White Mountain National Forest"
+---
 
 {% include gallery caption="Some fun photos I've taken while working." %}
