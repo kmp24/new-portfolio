@@ -7,11 +7,11 @@ permalink: /portfolio/index.html
 date: 2018-01-07
 
 feature_row:
-  - image_path: assets/images/l8scene.PNG
-    alt: "Calculate and reclassify NDVI"
-    title: "Calculate and reclassify NDVI"
-    excerpt: "Use NAIP to create NDVI and reclassify it"
-    url: "https://nbviewer.jupyter.org/github/kmp24/kmp24.github.io/blob/master/assets/docs/NAIP_NDVI_.ipynb"
+  - image_path: assets/images/ndvi.PNG
+    alt: "COGs"
+    title: "Stream COGs and perform analysis"
+    excerpt: "Use Cloud Optimized Geotiffs to perform analysis in the cloud"
+    url: "https://nbviewer.jupyter.org/github/kmp24/kmp24.github.io/blob/master/assets/docs/NAIP_COGs.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/l8scene.PNG
@@ -47,6 +47,13 @@ feature_row:
     title: "Partial Pixel Coverage Calculation"
     excerpt: "Calculate partial pixel coverage of polygons  "
     url: "https://nbviewer.jupyter.org/github/kmp24/kmp24.github.io/blob/master/assets/docs/FractionalPixelArea.ipynb"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    - image_path: assets/images/l8scene.PNG
+    alt: "Calculate and reclassify NDVI"
+    title: "Calculate and reclassify NDVI"
+    excerpt: "Use NAIP to create NDVI and reclassify it"
+    url: "https://nbviewer.jupyter.org/github/kmp24/kmp24.github.io/blob/master/assets/docs/NAIP_NDVI_.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
