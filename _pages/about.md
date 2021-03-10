@@ -2,13 +2,12 @@
 title: " "
 header:
   overlay_image: /assets/images/mt glass.jpg
-  caption: "Working on a NH SCRAP Archaeology project"
 permalink: /about/
 ---
 
 # About Me
 
-<img src="https://github.com/kmp24/new-portfolio/blob/master/assets/images/wmnf arch.jpg" width="50%" hspace="20" align="right">
+<img src="https://github.com/kmp24/kmp24.github.io/blob/e8068087727cec5c8372b77134930b32c2f072b5/assets/images/wmnf%20arch.jpg" width="50%" hspace="20" align="right">
   
 I'm a geospatial data analyst who has worked for a variety of public land management agencies and industry. I primarily use python with a variety of open source tools. I work for a data analytics company in the insurance sector on a wildfire exposure model product.
 
