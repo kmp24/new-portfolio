@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Portfolio"
     url: /portfolio/
+   - title: "Photos"
+    url: /photos/
 
 
 # sidebar for portfolio
