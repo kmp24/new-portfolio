@@ -15,6 +15,13 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/l8scene.PNG
+    alt: "Calculate and reclassify NDVI"
+    title: "Calculate and reclassify NDVI"
+    excerpt: "Use NAIP to create NDVI and reclassify it"
+    url: "https://nbviewer.jupyter.org/github/kmp24/kmp24.github.io/blob/master/assets/docs/NAIP_NDVI_.ipynb"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/l8scene.PNG
     alt: "Download NAIP"
     title: "Download NAIP from USGS's S3 bucket an AOI"
     excerpt: "An easy method to download NAIP using a file with an AOI"
@@ -47,13 +54,6 @@ feature_row:
     title: "Partial Pixel Coverage Calculation"
     excerpt: "Calculate partial pixel coverage of polygons  "
     url: "https://nbviewer.jupyter.org/github/kmp24/kmp24.github.io/blob/master/assets/docs/FractionalPixelArea.ipynb"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-    - image_path: assets/images/l8scene.PNG
-    alt: "Calculate and reclassify NDVI"
-    title: "Calculate and reclassify NDVI"
-    excerpt: "Use NAIP to create NDVI and reclassify it"
-    url: "https://nbviewer.jupyter.org/github/kmp24/kmp24.github.io/blob/master/assets/docs/NAIP_NDVI_.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
