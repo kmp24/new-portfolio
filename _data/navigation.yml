@@ -5,7 +5,7 @@ main:
   - title: "Portfolio"
     url: /portfolio/
    - title: "Photos"
-    url: /photos/
+    url: /_pages/photos.md
 
 
 # sidebar for portfolio
