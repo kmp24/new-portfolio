@@ -21,10 +21,16 @@ gallery:
     excerpt: "Trying to get more than 3 satellites while working at White Mountain National Forest"
 ---
 
+# Photos
 
-<div style="margin-bottom:1cm" align="center"><font size="55">Selected Projects</font></div>
+Some fun photos I've taken while working.
 
-{% include gallery caption="Some fun photos I've taken while working." %}
+
+<div style="margin-bottom:1cm" align="center"><font size="55">Photos</font></div>
+
+{% include gallery %}
 [![Analytics](https://ga-beacon.appspot.com/UA-105425818-1/_Portfolio)](https://github.com/kmp24/kmp24.github.io)
 
 <!------------------------------- FOOTER --------------------------------->
+
+
