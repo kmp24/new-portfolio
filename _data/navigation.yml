@@ -4,7 +4,7 @@ main:
     url: /about/
   - title: "Portfolio"
     url: /portfolio/
-   - title: "Photos"
+  - title: "Photos"
     url: /_pages/photos.md
 
 
